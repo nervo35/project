@@ -1,0 +1,27 @@
+#h1 {
+    border: 4px dotted red;
+}
+
+#h2 {
+    color: red;
+}
+
+#h3 {
+    margin: 20px;
+    background-color: lightblue;
+}
+
+.para {
+    padding: 10px;
+}
+
+.div-element {
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    transition: width 2s;
+}
+
+.div-element:hover {
+    width: 500px;
+}
